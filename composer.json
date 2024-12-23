@@ -13,7 +13,8 @@
         "symfony/framework-bundle": "6.4.*",
         "symfony/runtime": "6.4.*",
         "symfony/webapp-pack": "*",
-        "symfony/yaml": "6.4.*"
+        "symfony/yaml": "6.4.*",
+        "vich/uploader-bundle": "2.3.2"
     },
     "config": {
         "allow-plugins": {
